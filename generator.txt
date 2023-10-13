@@ -267,7 +267,7 @@ Crossing Guard (did you get lucky or buy this lmao) {5%}
 Prinny Machete {10%}
 
 $>Scout
-[<b>use your default</b> {20%}|[scout primary]]<br>[<b>use your default</b>|[scout secondary]]<br>[<b>use your default</b>|[scout melee]|[multi-class melee non spy or engineer]]
+[<b>use your default</b> {5%}|[scout primary]]<br>[<b>use your default</b>|[scout secondary]]<br>[<b>use your default</b>|[scout melee]|[multi-class melee non spy or engineer]]
 
 $>Soldier
 [<b>use your default</b>|[soldier primary]]<br>[<b>use your default</b>|[soldier secondary]]<br>[<b>use your default</b>|[soldier melee]|[multi-class melee non spy or engineer]]
