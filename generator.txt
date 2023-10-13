@@ -291,4 +291,4 @@ $>Sniper
 [[sniper primary]]<br>[[sniper secondary]]<br>[[sniper melee]|[multi-class melee non spy or engineer]]
 
 $>Spy
-[[spy primary]]<br>[[spy melee]]<br>[[watch]]<br>[[sapper]]<br>
+[[spy primary]]<br>[[spy melee]]<br>[[watch]]<br>[[sapper]]
