@@ -267,28 +267,28 @@ Crossing Guard (did you get lucky or buy this lmao) {5%}
 Prinny Machete {10%}
 
 $>Scout
-[<b>use your default</b> {5%}|[scout primary]]<br>[<b>use your default</b>|[scout secondary]]<br>[<b>use your default</b>|[scout melee]|[multi-class melee non spy or engineer]]
+[[scout primary]]<br>[[scout secondary]]<br>[[scout melee]|[multi-class melee non spy or engineer]]
 
 $>Soldier
-[<b>use your default</b>|[soldier primary]]<br>[<b>use your default</b>|[soldier secondary]]<br>[<b>use your default</b>|[soldier melee]|[multi-class melee non spy or engineer]]
+[[soldier primary]]<br>[[soldier secondary]]<br>[[soldier melee]|[multi-class melee non spy or engineer]]
 
 $>Pyro
-[<b>use your default</b>|[pyro primary]]<br>[<b>use your default</b>|[pyro secondary]]<br>[<b>use your default</b>|[pyro melee]|[multi-class melee non spy or engineer]]
+[[pyro primary]]<br>[[pyro secondary]]<br>[[pyro melee]|[multi-class melee non spy or engineer]]
 
 $>Demoman
-[<b>use your default</b>|[demoman primary]]<br>[<b>use your default</b>|[demoman secondary]]<br>[<b>use your default</b>|[demoman melee]|[multi-class melee non spy or engineer]]
+[[demoman primary]]<br>[[demoman secondary]]<br>[[demoman melee]|[multi-class melee non spy or engineer]]
 
 $>Heavy
-[<b>use your default</b>|[heavy primary]]<br>[<b>use your default</b>|[heavy secondary]]<br>[<b>use your default</b>|[heavy melee]|[multi-class melee non spy or engineer]]
+[[heavy primary]]<br>[[heavy secondary]]<br>[[heavy melee]|[multi-class melee non spy or engineer]]
 
 $>Engineer
-[<b>use your default</b>|[engineer primary]]<br>[<b>use your default</b>|[engineer secondary]]<br>[<b>use your default</b>|[engineer melee]]
+[[engineer primary]]<br>[[engineer secondary]]<br>[[engineer melee]]
 
 $>Medic
-[<b>use your default</b>|[medic primary]]<br>[<b>use your default</b>|[medic secondary]]<br>[<b>use your default</b>|[medic melee]|[multi-class melee non spy or engineer]]
+[[medic primary]]<br>[[medic secondary]]<br>[[medic melee]|[multi-class melee non spy or engineer]]
 
 $>Sniper
-[<b>use your default</b>|[sniper primary]]<br>[<b>use your default</b>|[sniper secondary]]<br>[<b>use your default</b>|[sniper melee]|[multi-class melee non spy or engineer]]
+[[sniper primary]]<br>[[sniper secondary]]<br>[[sniper melee]|[multi-class melee non spy or engineer]]
 
 $>Spy
-[<b>use your default</b>|[spy primary]]<br>[<b>use your default</b>|[spy melee]]<br>[<b>use your default</b>|[watch]]<br>[<b>use your default</b>|[sapper]]<br>
+[[spy primary]]<br>[[spy melee]]<br>[[watch]]<br>[[sapper]]<br>
