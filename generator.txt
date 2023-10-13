@@ -4,8 +4,6 @@ $description : Generates a random weapon loadout for the 9 classes.
 $picture : https://wiki.teamfortress.com/w/images/thumb/4/4c/TF2_crosshair.png/120px-TF2_crosshair.png
 $button : Hamshank?
 
-//Scout
-
 $scout primary
 Scattergun
 Force-a-Nature
@@ -40,8 +38,6 @@ Sandman
 Bat
 Batsaber {1%}
 
-//Soldier
-
 $soldier primary
 Rocket Launcher
 Original
@@ -74,8 +70,6 @@ Disciplinary Action
 Market Gardner
 Escape Plan
 
-//Pyro
-
 $pyro primary
 Flame Thrower
 Rainblower
@@ -104,8 +98,6 @@ Back Scratcher
 Sharpened Volcano Fragment
 Third Degree
 Neon Annihilator
-
-//Demoman
 
 $demoman primary
 Grenade Launcher
@@ -137,8 +129,6 @@ Claidheamh MÚr
 Half-Zatoichi
 Persian Persuader
 
-//Heavy
-
 $heavy primary
 Minigun
 Iron Curtain
@@ -167,8 +157,6 @@ Fists of Steel
 Eviction Notice
 Holiday Punch
 
-//Engineer
-
 $engineer primary
 Shotgun
 Frontier Justice
@@ -190,8 +178,6 @@ Southern Hospitality
 Jag
 Eureka Effect
 
-//Medic
-
 $medic primary
 Syringe Gun
 Blutsauger
@@ -210,8 +196,6 @@ Ubersaw
 Vita-Saw
 Amputator
 Solemn Vow
-
-//Sniper
 
 $sniper primary
 Sniper Rifle
@@ -238,8 +222,6 @@ Kukri
 Tribalman's Shiv
 Bushwacka
 Shahanshah {20%}
-
-//Spy
 
 $spy primary
 Revolver
@@ -286,19 +268,27 @@ Prinny Machete {10%}
 
 $>Scout
 [<b>use your default</b>|[scout primary]]<br>[<b>use your default</b>|[scout secondary]]<br>[<b>use your default</b>|[scout melee]|[multi-class melee non spy or engineer]]
+
 $>Soldier
 [<b>use your default</b>|[soldier primary]]<br>[<b>use your default</b>|[soldier secondary]]<br>[<b>use your default</b>|[soldier melee]|[multi-class melee non spy or engineer]]
+
 $>Pyro
 [<b>use your default</b>|[pyro primary]]<br>[<b>use your default</b>|[pyro secondary]]<br>[<b>use your default</b>|[pyro melee]|[multi-class melee non spy or engineer]]
+
 $>Demoman
 [<b>use your default</b>|[demoman primary]]<br>[<b>use your default</b>|[demoman secondary]]<br>[<b>use your default</b>|[demoman melee]|[multi-class melee non spy or engineer]]
+
 $>Heavy
 [<b>use your default</b>|[heavy primary]]<br>[<b>use your default</b>|[heavy secondary]]<br>[<b>use your default</b>|[heavy melee]|[multi-class melee non spy or engineer]]
+
 $>Engineer
 [<b>use your default</b>|[engineer primary]]<br>[<b>use your default</b>|[engineer secondary]]<br>[<b>use your default</b>|[engineer melee]]
+
 $>Medic
 [<b>use your default</b>|[medic primary]]<br>[<b>use your default</b>|[medic secondary]]<br>[<b>use your default</b>|[medic melee]|[multi-class melee non spy or engineer]]
+
 $>Sniper
 [<b>use your default</b>|[sniper primary]]<br>[<b>use your default</b>|[sniper secondary]]<br>[<b>use your default</b>|[sniper melee]|[multi-class melee non spy or engineer]]
+
 $>Spy
 [<b>use your default</b>|[spy primary]]<br>[<b>use your default</b>|[spy melee]]<br>[<b>use your default</b>|[watch]]<br>[<b>use your default</b>|[sapper]]<br>
