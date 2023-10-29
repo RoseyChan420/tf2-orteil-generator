@@ -2,7 +2,6 @@ $name : TF2 Weapon Loadout Generator
 $author : RainyRoses
 $description : Generates a random weapon loadout for the 9 classes.
 $picture : https://wiki.teamfortress.com/w/images/thumb/4/4c/TF2_crosshair.png/120px-TF2_crosshair.png
-$button : Hamshank?
 
 $scout primary
 Scattergun
@@ -268,27 +267,36 @@ Prinny Machete {10%}
 
 $>Scout
 [scout primary]<br>[scout secondary]<br>[[scout melee]|[multi-class melee non spy or engineer]]
+$button : Batter up!
 
 $>Soldier
 [soldier primary]<br>[soldier secondary]<br>[[soldier melee]|[multi-class melee non spy or engineer]]
+$button : Checkmate, Stalingrad!
 
 $>Pyro
 [pyro primary]<br>[pyro secondary]<br>[[pyro melee]|[multi-class melee non spy or engineer]]
+$button : Mmph mphna mprh.
 
 $>Demoman
 [demoman primary]<br>[demoman secondary]<br>[[demoman melee]|[multi-class melee non spy or engineer]]
+$button : You're all bloody dead!
 
 $>Heavy
 [heavy primary]<br>[heavy secondary]<br>[[heavy melee]|[multi-class melee non spy or engineer]]
+$button : All of you are dead!
 
 $>Engineer
 [engineer primary]<br>[engineer secondary]<br>[engineer melee]
+$button : Move 'em out!
 
 $>Medic
 [medic primary]<br>[medic secondary]<br>[[medic melee]|[multi-class melee non spy or engineer]]
+$button : Prepare for your examination...
 
 $>Sniper
 [sniper primary]<br>[sniper secondary]<br>[[sniper melee]|[multi-class melee non spy or engineer]]
+$button : Give 'em a gob full!
 
 $>Spy
 [spy primary]<br>[spy melee]<br>[watch]<br>[sapper]
+$button : Gentlemen?
