@@ -5,12 +5,12 @@ $picture : https://wiki.teamfortress.com/w/images/thumb/4/4c/TF2_crosshair.png/1
 $button : Gentlemen?
 
 $multi-class melee non spy or engineer
-Saxxy {2%}
+Saxxy {1%}
 Frying Pan {20%}
 Conscientious Objector {15%}
-Freedom Staff {10%}
-Bat Outta Hell {10%}
-GOLDEN PAN (do you even have this?) {2%}
+Freedom Staff {9%}
+Bat Outta Hell {9%}
+GOLDEN PAN (do you even have this?) {1%}
 Memory Maker {5%}
 Ham Shank {15%}
 Necro Smasher {10%}
